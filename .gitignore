@@ -1,4 +1,6 @@
-# Compiled class file
+# Generated files
+META-INF
+bin
 *.class
 
 # Log file
@@ -26,7 +28,6 @@ hs_err_pid*
 .classpath
 .project
 .settings
-bin
 
 # Vi files
 *.swp
