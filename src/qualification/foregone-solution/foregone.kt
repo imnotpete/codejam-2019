@@ -15,8 +15,8 @@ fun process(index: Int, number: String) {
 	var a = ""
 	var b = ""
 
-	number.chunked(1).forEach {
-		if (it.equals("4")) {
+	number.forEach {
+		if (it.equals('4')) {
 			a += '2'
 			b += '2'
 		} else {
